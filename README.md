@@ -5,3 +5,7 @@
 - **Python🐍**
 -  **Rust⚙️**
 
+- **Youtube**
+- [https://www.youtube.com/@Tsukeruu](https://www.youtube.com/@Tsukeruu)
+- [https://www.youtube.com/@omararafah](https://www.youtube.com/@omararafah)
+- [https://www.youtube.com/@AceEdits3](https://www.youtube.com/@AceEdits3)
