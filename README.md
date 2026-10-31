@@ -1,4 +1,5 @@
-<h1 align="center">bart</h1>
-<h3 align="center">hi</h3>
+<h1 align="center">Omar Arafah</h1>
+<h3 align="center">Hello! welcome to my profile!</h3>
 
-- **Python, bash, and basic golang**
+- **High school student based in Jordan**
+- **Python🐍 and Rust⚙️**
